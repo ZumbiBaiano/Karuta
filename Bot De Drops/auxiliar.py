@@ -1,3 +1,5 @@
+# Codigo para mostar a localização do mouse
+
 import pyautogui
 import time
 
