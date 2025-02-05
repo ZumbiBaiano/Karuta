@@ -213,7 +213,7 @@ def executar_picks2():
     pyautogui.click(x=503, y=906) # pegar a segunda carta
     time.sleep(4)
 
-    pyautogui.click(x=1086, y=1061) # Selecionando proximo navegador
+    pyautogui.click(x=1086, y=1071) # Selecionando proximo navegador
     time.sleep(4)
 
     # -- CHROME --
@@ -230,7 +230,7 @@ def executar_picks2():
     time.sleep(2)
     pyautogui.hotkey("fn","end") # caso o chat esteja muito acima n e possivel pegar as cartas pela posicao do mouse
     time.sleep(3)
-    pyautogui.click(x=512, y=875) # pegar a terceira carta
+    pyautogui.click(x=517, y=874) # pegar a terceira carta
     time.sleep(4)
 
     time.sleep(610) # time para dar o terceiro KD - 1 pick pode ser feito a cada 10 min
