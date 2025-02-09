@@ -1,3 +1,4 @@
+#Branch Karuta_ex
 
 import pyautogui 
 import time 
@@ -56,6 +57,8 @@ def executar_picks2():
     time.sleep(2)
     pyautogui.write("phd") # Nome do servidor
     time.sleep(2)
+    pyautogui.press("enter")
+    time.sleep(2)
     pyautogui.click(x=151, y=316) # Selecionar o chat-karuta
     time.sleep(2)
     pyautogui.click(x=1485, y=722) # Clicar foda das cartas para que n interompa o processo
@@ -64,6 +67,8 @@ def executar_picks2():
     time.sleep(3)   
     pyautogui.write("kd") # kd -> comando usado para karuta dropa cartas, so pode ser usado a cada 30 min
     time.sleep(2)
+    pyautogui.press("enter")
+    time.sleep(5)
     pyautogui.click(x=408, y=934) # pegar a primeira carta
     time.sleep(4)
 
@@ -77,6 +82,8 @@ def executar_picks2():
     pyautogui.click(x=177, y=141) # Barra de busca do servidores
     time.sleep(2)
     pyautogui.write("phd") # Nome do servidor
+    time.sleep(2)
+    pyautogui.press("enter")
     time.sleep(2)
     pyautogui.click(x=168, y=352) # Selecionar o chat-karuta
     time.sleep(2)
@@ -97,6 +104,8 @@ def executar_picks2():
     pyautogui.click(x=208, y=98) # Barra de busca do servidores
     time.sleep(2)
     pyautogui.write("phd") # Nome do servidor
+    time.sleep(2)
+    pyautogui.press("enter")
     time.sleep(2)
     pyautogui.click(x=228, y=303) # Selecionar o chat-karuta
     time.sleep(2)
@@ -119,6 +128,8 @@ def executar_picks2():
     time.sleep(2)
     pyautogui.write("phd") # Nome do servidor
     time.sleep(2)
+    pyautogui.press("enter")
+    time.sleep(2)
     pyautogui.click(x=228, y=303) # Selecionar o chat-karuta
     time.sleep(2)
     pyautogui.click(x=1564, y=751) # Clicar foda das cartas para que n interompa o processo
@@ -127,6 +138,8 @@ def executar_picks2():
     time.sleep(3)   
     pyautogui.write("kd") # kd -> comando usado para karuta dropa cartas, so pode ser usado a cada 30 min
     time.sleep(2)
+    pyautogui.press("enter")
+    time.sleep(5)
     pyautogui.click(x=445, y=932) # pegar a primeira carta
     time.sleep(4)
 
@@ -140,6 +153,8 @@ def executar_picks2():
     pyautogui.click(x=168, y=112) # Barra de busca do servidores
     time.sleep(2)
     pyautogui.write("phd") # Nome do servidor
+    time.sleep(2)
+    pyautogui.press("enter")
     time.sleep(2)
     pyautogui.click(x=151, y=316) # Selecionar o chat-karuta
     time.sleep(2)
@@ -160,6 +175,8 @@ def executar_picks2():
     pyautogui.click(x=177, y=141) # Barra de busca do servidores
     time.sleep(2)
     pyautogui.write("phd") # Nome do servidor
+    time.sleep(2)
+    pyautogui.press("enter")
     time.sleep(2)
     pyautogui.click(x=168, y=352) # Selecionar o chat-karuta
     time.sleep(2)
@@ -182,6 +199,8 @@ def executar_picks2():
     time.sleep(2)
     pyautogui.write("phd") # Nome do servidor
     time.sleep(2)
+    pyautogui.press("enter")
+    time.sleep(2)
     pyautogui.click(x=168, y=352) # Selecionar o chat-karuta
     time.sleep(2)
     pyautogui.click(x=1564, y=751) # Clicar foda das cartas para que n interompa o processo
@@ -190,6 +209,8 @@ def executar_picks2():
     time.sleep(3)   
     pyautogui.write("kd") # kd -> comando usado para karuta dropa cartas, so pode ser usado a cada 30 min
     time.sleep(2)
+    pyautogui.press("enter")
+    time.sleep(5)
     pyautogui.click(x=397, y=935) # pegar a primeira carta
     time.sleep(4)
 
@@ -203,6 +224,8 @@ def executar_picks2():
     pyautogui.click(x=208, y=98) # Barra de busca do servidores
     time.sleep(2)
     pyautogui.write("phd") # Nome do servidor
+    time.sleep(2)
+    pyautogui.press("enter")
     time.sleep(2)
     pyautogui.click(x=228, y=303) # Selecionar o chat-karuta
     time.sleep(2)
@@ -223,6 +246,8 @@ def executar_picks2():
     pyautogui.click(x=168, y=112) # Barra de busca do servidores
     time.sleep(2)
     pyautogui.write("phd") # Nome do servidor
+    time.sleep(2)
+    pyautogui.press("enter")
     time.sleep(2)
     pyautogui.click(x=151, y=316) # Selecionar o chat-karuta
     time.sleep(2)
